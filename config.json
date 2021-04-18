@@ -1,0 +1,14 @@
+{
+    "main_config": {
+        "token": "TOKEN_HERE",
+        "prefix": ">",
+        "color": "3fa3eb",
+        "server_logo": "SERVER_LOGO_LINK_HERE",
+        "server_ip": "SERVER_IP_WITH_PORT_HERE",
+        "cad_link": "https://cad.astradev.wtf/",
+        "website_link": "https://astradev.wtf/"
+    },
+    "Developer": {
+        "debug": false
+    }
+}
