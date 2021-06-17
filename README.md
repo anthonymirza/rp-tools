@@ -16,11 +16,8 @@ This is my official RP Tools Bot! This is a basic bot that allows the user to tr
 ---
 
 ### How to get support:
-
-- Join [My Discord Server](https://discord.gg/AYSSF4Uuv9)
 - Create a [GitHub Issue](https://github.com/AstraWrld/listing-bot/issues)
-- Contact me from my [website](https://astradev.wtf/contact/)
-
+- Commont on [Forum Post](https://forum.cfx.re/t/free-simple-discord-bot/3412332)
 ---
 
 ### Credits:
